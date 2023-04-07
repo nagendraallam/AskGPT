@@ -1,4 +1,4 @@
-#TERMINAL CHATGPT
+# TERMINAL CHATGPT
 This is a basic terminal chatbot built in Python that is designed to handle simple interactions with the user. The chatbot is still in its early stages of development, but future versions will include the ability to extract information from previous commands to improve responses.
 
 ## Getting Started
