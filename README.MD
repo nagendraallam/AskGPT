@@ -1,14 +1,31 @@
-# TERMINAL CHATGPT
-This is a basic terminal chatbot built in Python that is designed to handle simple interactions with the user. The chatbot is still in its early stages of development, but future versions will include the ability to extract information from previous commands to improve responses.
+# AskGPT - A Chatbot Powered by OpenAI's GPT-3
+Askgpt is a Python package that allows users to interact with the OpenAI GPT-3 model directly from the terminal, providing quick and convenient access to powerful language processing capabilities.
 
 ## Getting Started
 
-To use the chatbot, simply clone this repository to your local machine and run the `chatbot.py` file in your terminal. The chatbot will prompt you to enter a message, and you can start interacting with it by typing your message and pressing Enter.
+- Git installed on your system (https://git-scm.com/downloads)
+- Python 3.x installed on your system (https://www.python.org/downloads/)
+- OpenAI API key (platform.openai.com/api-keys)
 
-## Future Updates
+## Installation
 
-Future versions of the chatbot will include the ability to extract information from previous commands to improve responses. This will enable the chatbot to provide more personalized and accurate responses to user inquiries.
+1. Clone the repository:
 
+   ```bash
+   git clone https://github.com/nagendraallam/askgpt.git
+   cd askgpt
+  ```
+
+2. Install the package using pip:
+  ```bash
+  pip install .
+  ```
+
+3. Set your OpenAPI key as env variable
+  ```bash
+  export OPENAI_API_KEY="your_api_key_here"
+  ```
+  
 ## Showcase
 
 Here are some examples of the chatbot in action:
