@@ -10,21 +10,19 @@ Askgpt is a Python package that allows users to interact with the OpenAI GPT-3 m
 ## Installation
 
 1. Clone the repository:
-
-   ```
-   git clone https://github.com/nagendraallam/askgpt.git
-   cd askgpt
-  ```
+```
+   git clone https://github.com/nagendraallam/askgpt.git && cd askgpt
+```
 
 2. Install the package using pip:
-  ```
+```
   pip install .
-  ```
+```
 
 3. Set your OpenAPI key as env variable
-  ```
+```
   export OPENAI_API_KEY="your_api_key_here"
-  ```
+```
 
 ## Showcase
 
