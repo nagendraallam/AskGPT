@@ -5,27 +5,27 @@ Askgpt is a Python package that allows users to interact with the OpenAI GPT-3 m
 
 - Git installed on your system (https://git-scm.com/downloads)
 - Python 3.x installed on your system (https://www.python.org/downloads/)
-- OpenAI API key (platform.openai.com/api-keys)
+- OpenAI API key (https://platform.openai.com/api-keys)
 
 ## Installation
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/nagendraallam/askgpt.git
    cd askgpt
   ```
 
 2. Install the package using pip:
-  ```bash
+  ```
   pip install .
   ```
 
 3. Set your OpenAPI key as env variable
-  ```bash
+  ```
   export OPENAI_API_KEY="your_api_key_here"
   ```
-  
+
 ## Showcase
 
 Here are some examples of the chatbot in action:
